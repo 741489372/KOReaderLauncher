@@ -9,5 +9,4 @@ To prevent users from locking themselves out of their real home screens, a 5 sec
 ## Known issues
 - Only supports FDroid version of KOReader
 - May fail to open when "app freezing" is in effect (default on BOOX devices; be sure to turn this off for both KOReader AND the launcher!)
-test
-trigger
+Commit changes
